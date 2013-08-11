@@ -1,0 +1,21 @@
+{
+  "name": "learn_js",
+  "version": "0.0.0",
+  "description": "Package.json file for JS tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "testjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MortenPlaypen/learn_js.git"
+  },
+  "author": "Morten Lundsby Jensen",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/MortenPlaypen/learn_js/issues"
+  },
+  "dependencies": {
+    "request": "~2.26.0"
+  }
+}
